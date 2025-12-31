@@ -1,4 +1,8 @@
-Eng. Elétrica em transição para Dados. Especialista em construir pipelines (Python/ETL) e visualização (Power BI/Tableau) para inteligência de negócio.
+# Olá, eu sou o Lucas! 👋
+
+### 🔧 Engenharia Elétrica | Análise de Dados | Automação
+
+Sou um profissional com background acadêmico em **Engenharia Elétrica (UFU)** e experiência
 - 📫 How to reach me lucaseor12@gmail.com or my number (34) 99202-9306
 
 <!---
