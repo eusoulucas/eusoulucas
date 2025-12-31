@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @eusoulucas
-- 👀 I’m interested in Python and another DataScience languages and tools.
-- 🌱 I’m currently learning Bussiness Inteligence softwares and modules.
+Eng. Elétrica em transição para Dados. Especialista em construir pipelines (Python/ETL) e visualização (Power BI/Tableau) para inteligência de negócio.
 - 📫 How to reach me lucaseor12@gmail.com or my number (34) 99202-9306
 
 <!---
